@@ -60,7 +60,7 @@ content:
         link: https://new.studentspace.aau.dk/
         # link_text: Project Website
         additional_links:
-          - title:  "Danske studerendes satelliter indtager verdensrummet" Article in videnskab.dk
+          - title:  \"Danske studerendes satelliter indtager verdensrummet\" Article in videnskab.dk
             icon: fab fa-github
             url: https://videnskab.dk/rummet/danske-studerendes-satellitter-indtager-verdensrummet/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -68,9 +68,11 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Designing, building, testing and launching a open-source satellite platform, entirely managed by students. 
+
         description: | # this will include new lines to allow paragraphs
           Within my first two weeks of uni (september 2023), i stepped up at AAU-satlab, wanting to contribute with whatever i could 
           to see this satellite fly. Currenty (trying to ;) ) manage the hardware design team, while developing equipment and evaluation boards for the satellite.
+
 
 
 #      - layout: top-middle
