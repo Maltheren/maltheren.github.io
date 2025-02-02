@@ -60,16 +60,27 @@ content:
         link: https://new.studentspace.aau.dk/
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  "Danske studerendes satelliter indtager verdensrummet" Article in videnskab.dk
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://videnskab.dk/rummet/danske-studerendes-satellitter-indtager-verdensrummet/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Designing, building, testing and launching a open-source satellite platform, entirely managed by students. 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Within my first two weeks of uni (september 2023), i stepped up at AAU-satlab, wanting to contribute with whatever i could 
+          to see this satellite fly. Currenty (trying to ;) ) manage the hardware design team, while developing equipment and evaluation boards for the satellite.
+
+
+      - layout: top-middle
+        title: 3D Ultrasonic trilateration 
+
+        qoute: Utilzing ultrasonic sound propagation as a method for indoor tracking of UAVs in 3 dimensions.
+
+        description: | 
+          A 15 ECTs project developing hardware, HDL and firmware to create a modular system for tracking a target in 3D dimension with a precision of 10cm.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
