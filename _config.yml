@@ -110,15 +110,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Aalborg University
+        caption: 2023 - 2028, Ongoing
+        sub_title: MSc Electronic Systems Engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Deemed the best engineering university in Europe & Ranked #5 education in the world in terms of electrical engineering.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        description: | # this will include new lines to allow paragraphs
+          Im currently at 4. semester, and is involved in 
+
 
   - title: Hobbies and other semi-private stuff
     layout: text
@@ -126,8 +126,9 @@ content:
       Alongside my educational and professional hobbies, i do enjoy the following
       - Photograpy, 
       - <mark>Restoration & tinkering </mark>, So far i've restored 'old' 35 mm film cameras, a MF-35 tractor, recordplayers... for personal use
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Jazz music, altough i cant play anything :/.
+      - Jazz music, altough i cant play anything sadly :/.
+      - Hiking, skiing, Sailing. Whenever possible.
+      
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
