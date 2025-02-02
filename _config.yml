@@ -73,13 +73,13 @@ content:
           to see this satellite fly. Currenty (trying to ;) ) manage the hardware design team, while developing equipment and evaluation boards for the satellite.
 
 
-      - layout: top-middle
-        title: 3D Ultrasonic trilateration 
+#      - layout: top-middle
+#        title: 3D Ultrasonic trilateration 
 
-        qoute: Utilzing ultrasonic sound propagation as a method for indoor tracking of UAVs in 3 dimensions.
+#        qoute: Utilzing ultrasonic sound propagation as a method for indoor tracking of UAVs in 3 dimensions.
 
-        description: | 
-          A 15 ECTs project developing hardware, HDL and firmware to create a modular system for tracking a target in 3D dimension with a precision of 10cm.
+#        description: | 
+#          A 15 ECTs project developing hardware, HDL and firmware to create a modular system for tracking a target in 3D dimension with a precision of 10cm.
 
 
   - title: Experience # Title for the section
