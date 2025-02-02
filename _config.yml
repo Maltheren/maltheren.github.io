@@ -77,7 +77,8 @@ content:
 
       - layout: top-middle
         title: 3D Ultrasonic trilateration 
-        qoute: Utilzing ultrasonic sound propagation as a method for indoor tracking of UAVs in 3 dimensions.
+        qoute: >
+          Utilzing ultrasonic sound propagation as a method for indoor tracking of UAVs in 3 dimensions.
 
         description: | 
           A 15 ECTs project, developing hardware, HDL and firmware to create a modular system for tracking a target in 3D dimension with a precision of ±10cm.
@@ -124,10 +125,10 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my educational and professional hobbies, i do enjoy the following
       - Photograpy, 
-      - <mark>Restoration & tinkering <\mark>, So far i've restored 'old' 35 mm film cameras, a MF-35 tractor, recordplayers... for personal use
+      - <mark>Restoration & tinkering </mark>, So far i've restored 'old' 35 mm film cameras, a MF-35 tractor, recordplayers... for personal use
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Jazz music, altough i cant play anything :/.
-      
+
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
