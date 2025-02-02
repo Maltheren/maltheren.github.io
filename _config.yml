@@ -9,7 +9,7 @@ version: 2
 name: Malthe Holm Sennels
 title: Studying electronic systems engineering at AAU
 email: msenne23@student.aau.dk
-website: www.github.com/sproogen/resume-theme
+website: malthe.holmsennels.dk
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -25,7 +25,7 @@ instagram_username: mr.sennels
 linkedin_username: malthe-sennels-9867a8291
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,8 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  Hii, As you probably can guess by the title my name is Malthe Sennels and i'm studying electronic engineering at Aalborg university
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
@@ -57,8 +56,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: AAU-Satlab | AAUSAT-6
+        link: https://new.studentspace.aau.dk/
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
